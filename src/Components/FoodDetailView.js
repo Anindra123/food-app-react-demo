@@ -25,7 +25,7 @@ const FoodDetailView = (props) => {
       <FoodDetailItem
         mealDetails={strMeal}
         styleItem={{ border: "5px solid black" }}
-        insText="Instruction"
+        insText="Name"
       />
 
       <FoodDetailItem
